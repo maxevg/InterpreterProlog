@@ -1,0 +1,1 @@
+place(X, Y, P) :- P is X * Y.

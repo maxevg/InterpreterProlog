@@ -1,0 +1,1 @@
+racers([max, charles, fernando]).
